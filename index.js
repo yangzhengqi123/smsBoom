@@ -3,7 +3,7 @@ const apiList = require('./api.json')
 const getApiList = require('./GETAPI.json')
 
 // 目标手机号
-const mobile = '15545457878'
+const mobile = '19992727737'
 
 const total = getApiList.length
 const timestamp = new Date().getTime()
